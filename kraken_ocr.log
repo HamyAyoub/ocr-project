@@ -4,3 +4,31 @@
 2025-07-15 17:51:07,270 - INFO - Perform topological sort on partially ordered lines
 2025-07-15 17:51:07,274 - INFO - Loading model from E:\Projects\OCR\peraire2_ft_MMCFR.mlmodel
 2025-07-15 17:51:09,478 - WARNING - Recognizers with segmentation types {'baselines'} will be applied to segmentation of type bbox. This will likely result in severely degraded performace
+2025-09-24 14:10:48,429 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-09-24 14:10:48,429 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-24 14:10:48,430 - INFO -  * Restarting with stat
+2025-09-24 14:10:51,601 - WARNING -  * Debugger is active!
+2025-09-24 14:10:51,603 - INFO -  * Debugger PIN: 917-602-554
+2025-09-24 14:14:47,444 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-09-24 14:14:47,444 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-24 14:14:47,445 - INFO -  * Restarting with stat
+2025-09-24 14:14:50,577 - WARNING -  * Debugger is active!
+2025-09-24 14:14:50,579 - INFO -  * Debugger PIN: 917-602-554
+2025-09-24 14:20:45,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-09-24 14:20:45,862 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-24 14:20:45,863 - INFO -  * Restarting with stat
+2025-09-24 14:20:48,813 - WARNING -  * Debugger is active!
+2025-09-24 14:20:48,815 - INFO -  * Debugger PIN: 917-602-554
+2025-09-25 19:31:36,424 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-09-25 19:31:36,424 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-25 19:31:36,426 - INFO -  * Restarting with stat
+2025-09-25 19:31:39,846 - WARNING -  * Debugger is active!
+2025-09-25 19:31:39,848 - INFO -  * Debugger PIN: 917-602-554
+2025-09-28 01:05:49,925 - INFO -  * Detected change in 'D:\\CLI\\private\\dev\\acrative\\GED\\ocr-project\\app.py', reloading
+2025-09-28 01:05:51,163 - INFO -  * Restarting with stat
+2025-09-28 01:05:56,025 - WARNING -  * Debugger is active!
+2025-09-28 01:05:56,028 - INFO -  * Debugger PIN: 917-602-554

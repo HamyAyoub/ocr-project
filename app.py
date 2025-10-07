@@ -19,4 +19,4 @@ def ocr_api():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    app.run(port=int(os.environ.get("MAIN_API_PORT", 5000)))
+    app.run(debug=True, port=int(os.environ.get("MAIN_API_PORT", 5000)))
